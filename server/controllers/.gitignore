@@ -1,0 +1,38 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node
+node_modules/
+client/node_modules/
+server/node_modules/
+dist/
+build/
+
+# Env files
+.env
+.env.*
+!.env.example
+!.env.ai.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coverage / cache
+coverage/
+.nyc_output/
+.cache/

@@ -1,0 +1,2 @@
+# Google ADK integration for the Python worker.
+google-adk
